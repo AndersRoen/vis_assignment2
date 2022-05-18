@@ -1,4 +1,5 @@
 # vis_assignment_2
+Link to github repo: https://github.com/AndersRoen/vis_assignment2.git
 
 ## Assignment 2 description
 In the last two classes, you've seen how to train a model that can be used to make classification predictions on image data. So far, we've seen two different approaches. The first approach is a simple logistic regression classifier; the second uses a (very inefficient!) neural network class written in numpy.
